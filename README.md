@@ -52,6 +52,10 @@ FullStackTodo/
 
 ### 2. Clone and Setup Project
 - Clone the repository and navigate into `FullStackTodo` directory.
+- Install the required dependencies:
+  ```
+  pip install -r requirements.txt
+  ```
 
 ### 3. Database Migration
 - Run migrations to create database tables:
